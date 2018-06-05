@@ -1,0 +1,3 @@
+[submodule "s2i-openresty"]
+	path = s2i-openresty
+	url = git@github.com:oip-core/s2i-openresty.git
